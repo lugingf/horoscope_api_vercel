@@ -1,4 +1,4 @@
-module github.com/GIT_USER_ID/GIT_REPO_ID
+module github.com/lugingf/horoscope_api_vercel
 
 go 1.18
 
